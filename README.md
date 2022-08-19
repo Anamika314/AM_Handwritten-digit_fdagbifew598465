@@ -1,4 +1,4 @@
 # Corsera Project
-Course : Unsupervised Learning, Recommenders, Reinforcement Learning
+Course : Advanced Learning Algorithms
 
 Week 2 lab assignment
